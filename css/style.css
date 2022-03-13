@@ -6,3 +6,21 @@
     min-height: 480px;
     height: auto;
 }
+
+#Services {
+    background-image: url("/Image/backgrounds/s_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 480px;
+    height: auto;
+}
+
+#Contact-us {
+    background-image: url("/Image/backgrounds/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 480px;
+    height: auto;
+}

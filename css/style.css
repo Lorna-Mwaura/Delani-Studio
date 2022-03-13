@@ -1,0 +1,8 @@
+#home {
+    background-image: url("/Image/backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 480px;
+    height: auto;
+}

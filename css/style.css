@@ -24,3 +24,26 @@
     min-height: 480px;
     height: auto;
 }
+
+#social {
+    justify-content: center;
+    justify-items: center;
+
+}
+
+#design3 {
+    display: none;
+}
+
+#dev3 {
+    display: none;
+}
+#pdct3 {
+    display:none;
+}
+#form {
+  display: flex;
+    text-align: center;
+    padding: auto;
+   
+}

@@ -1,7 +1,9 @@
-*{
+* {
     font-family: 'Fredoka', sans-serif;
- 
+
 }
+
+@media only screen and (min-width: 768px) {}
 
 #home {
     color: white;
@@ -13,6 +15,7 @@
     min-height: 480px;
     height: auto;
 }
+
 #home p {
     font-size: medium;
 }
@@ -45,17 +48,20 @@
 
 }
 
-.design3 , .dev3, .pdct3{
+.design3,
+.dev3,
+.pdct3 {
     display: none;
 }
 
 
 #form {
-  display: flex;
+    display: flex;
     text-align: center;
     padding: auto;
-   
+
 }
+
 #project2 {
     display: none;
 }

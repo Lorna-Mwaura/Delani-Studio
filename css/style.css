@@ -19,13 +19,7 @@
 
 #mouse {
     margin-top: 15%;
-.welcome {
-    padding: 20%;
-}
-#aboutus {
-    margin-top: 5%;
-    margin-bottom: 5%;
-}
+
 #Services {
     background-image: url("/Images/backgrounds/s_image.jpg");
     background-repeat: no-repeat;
@@ -35,7 +29,7 @@
     height: auto;
 }
 
-#Contact-us {
+#contact-us {
     background-image: url("/Images/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;

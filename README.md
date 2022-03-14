@@ -9,7 +9,7 @@
 + [Authors Info](#author-Info)
 ## Description
 <p>This is a project of the Delani studio homepage. The contacts of the studio are available of how one can reach them.</p>
-<img src="/Image/Delani Studio.jpg" alt="Alt-text" title="Delani studio">
+<img src="/Images/ Delani Studio.jpg" alt="Alt-text" title="Delani studio">
 
 
 ### Requirements

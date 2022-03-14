@@ -55,6 +55,14 @@ $(document).ready(function () {
     $(".burned").mouseout(function () {
         $("#burned2").hide();
     });
+    $(".giraffe").mouseover(function () {
+        $("#giraffe2").show();
+    })
+    $(".giraffe").mouseout(function () {
+        $("#giraffe2").hide();
+    });
+
+
 });
 
 let form = document.querySelector("#form")

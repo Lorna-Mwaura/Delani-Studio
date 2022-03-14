@@ -9,12 +9,12 @@
 + [Authors Info](#author-Info)
 ## Description
 <p>This is a project of the Delani studio homepage. The contacts of the studio are available of how one can reach them.</p>
-<img src="/Image/Delani.png" alt="Alt-text" title="Delani studio">
+<img src="/Image/Delani Studio.jpg" alt="Alt-text" title="Delani studio">
 
 
 ### Requirements
 * Make sure you have access to a browser
-* Click here to access the project
+* Click here to access the project 
 
 ### Installation Process
 [Go Back to the top](#Delani-Studio)

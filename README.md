@@ -2,14 +2,17 @@
 ##### Lona Wanjiku
 ## Table of Content
 + [Description](#Description)
-+ [Installation Requirement](#Installation)
++ [Design](#Design)
 + [Technology Used](#technologies-used)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
+
+## Design
+<img src="Images/ Delani Studio.jpg" alt="Alt-text" title="Delani studio">
+
 ## Description
 <p>This is a project of the Delani studio homepage. The contacts of the studio are available of how one can reach them.</p>
-<img src="Images/ Delani Studio.jpg" alt="Alt-text" title="Delani studio">
 
 ### Requirements
 * Make sure you have access to a browser

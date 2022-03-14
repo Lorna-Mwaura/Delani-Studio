@@ -6,7 +6,7 @@
 #home {
     color: white;
     font-size: xx-large;
-    background-image: url("/Images/backgrounds/h_img.jpg");
+    background-image: url("Images/backgrounds/h_img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -21,7 +21,7 @@
     margin-top: 15%;
 
 #Services {
-    background-image: url("/Images/backgrounds/s_image.jpg");
+    background-image: url("Images/backgrounds/s_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -30,7 +30,7 @@
 }
 
 #contact-us {
-    background-image: url("/Images/backgrounds/c_image.jpg");
+    background-image: url("Images/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;

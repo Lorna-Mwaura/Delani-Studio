@@ -12,3 +12,10 @@ $(".pdct1").click(function () {
     $(".pdct3").toggle();
 });
 });
+
+let form = document.querySelector("#form")
+let username=form.username
+form.addEventListener("submit", (e)=>{
+    e.preventDefault()
+    alert("Hello "+ username.value + "! data has been submitted successfully" )
+})
